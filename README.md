@@ -1,6 +1,12 @@
 # h-bot
 A bot for Discord that deletes all messages unless it's a h (Python 3.6)
 
+# Requirements
+
+* discord.py
+* Python 3.6 (or above)
+* Something to run it on
+
 # Setup
 
 1. Put your bot token in the config.json.sample file
